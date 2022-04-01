@@ -1,4 +1,4 @@
-# spl-token-bulk-transfer
+# spl-token-bulk-transfer(solana)
 
 ## Installation
 
